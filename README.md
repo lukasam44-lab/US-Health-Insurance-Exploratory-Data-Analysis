@@ -7,18 +7,12 @@ This project explores how the different features in the dataset relate to one an
 🛠️ Tools & Libraries
 
 
-Python
-Pandas — data loading and cleaning
-Seaborn & Matplotlib — data visualization
-NumPy — numerical operations
-Jupyter Notebook — analysis environment
+- Python
+- Pandas — data loading and cleaning
+- Seaborn & Matplotlib — data visualization
+- NumPy — numerical operations
+- Jupyter Notebook — analysis environment
 
-
-📂 Dataset
-
-The dataset (insurance.csv) contains the following columns:
-
-ColumnDescriptionageAge of the individualsexGenderbmiBody Mass IndexchildrenNumber of dependentssmokerWhether the person smokesregionRegion in the USchargesInsurance charges billed
 
 🔍 Analysis Steps
 
